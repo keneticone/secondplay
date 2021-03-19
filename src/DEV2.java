@@ -1,3 +1,5 @@
 public class DEV2 {
-    private String autor = "Przemek Illeczko";
+
+    public String author;
+    String autor2 = "Przemek Illeczko";
 }
